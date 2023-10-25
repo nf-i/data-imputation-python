@@ -1,4 +1,4 @@
-# dataimputation
+# data imputation
 Data imputation is used when there are missing values in a dataset. It helps fill in these gaps with estimated values, enabling analysis and modeling. Imputation is crucial for maintaining dataset integrity and ensuring accurate insights from incomplete data.
 
 ![original](https://github.com/nf-i/data-imputation-python/assets/60590453/e977ca6b-4d01-42b9-aa4d-0642772a299c)
